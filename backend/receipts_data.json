@@ -1,0 +1,76 @@
+[
+    {
+        "Date": "11/02/2019",
+        "Items": [
+            "1 | Front and rear brake cables",
+            "2 | Newset of pedal arms",
+            "3 | Labor Shrs,",
+            "Terms & Conditions",
+            "Payment is due within 15 days",
+            "Please make checks payable to: East Repair Inc.",
+            "RECEIPT",
+            "Receipt # us-001",
+            "Receipt Date 11/02/2019",
+            "P.O# 2312/2019",
+            "Due Date 26/02/2019",
+            "UNIT PRICE AMOUNT",
+            "100.00",
+            "15.00",
+            "5.00",
+            "Subtotal",
+            "Sales Tax 6.25%",
+            "TOTAL $154.06",
+            "Swit"
+        ],
+        "Prices": [
+            100.0,
+            30.0,
+            15.0,
+            145.0,
+            9.06
+        ],
+        "Total": 299.06
+    },
+    {
+        "Date": null,
+        "Items": [
+            "Orange Juice $2.15",
+            "Apples $3.50",
+            "Tomato $2.40",
+            "Fish",
+            "Beef $10.00",
+            "Onion $1.25",
+            "Cheese $3.40",
+            "Tax",
+            "TOTAL $29.69",
+            "THANK YOU",
+            "123456778963578021"
+        ],
+        "Prices": [
+            36.99
+        ],
+        "Total": 36.99
+    },
+    {
+        "Date": null,
+        "Items": [
+            "2000 \u2018Areca palm $250 $5000",
+            "3500 Majesty palm $300 $105.00",
+            "1500 Bismarck palm $250 $3750",
+            "Subtotal $19250",
+            "Sales Tax",
+            "Total $192.50",
+            "Mate al checks payable to Hapist Vay Fame",
+            "Thankyou for yourbusnes",
+            "4321 Maplewood Ave [Nash TN | 10105 |happesvaley@enamplecom"
+        ],
+        "Prices": [],
+        "Total": null
+    },
+    {
+        "Date": "11-04-2023",
+        "Items": [],
+        "Prices": [],
+        "Total": null
+    }
+]
